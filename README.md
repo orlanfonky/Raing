@@ -11,3 +11,7 @@ The project focuses on building a graph-based pipeline where:
 * These graphs are integrated into a RAG framework to provide contextually rich and verifiable responses.
 
 By combining graph-based representations, embeddings, and LLM-based generation, the system aims to demonstrate the potential of hybrid architectures in handling multi-topic and large-scale datasets for misinformation detection.
+
+
+http://repository.javeriana.edu.co/handle/10554/69401
+https://repository.javeriana.edu.co/items/52bc8739-07de-4b02-9c0f-931b7118f4bf
