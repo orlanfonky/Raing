@@ -14,4 +14,3 @@ By combining graph-based representations, embeddings, and LLM-based generation, 
 
 
 http://repository.javeriana.edu.co/handle/10554/69401
-https://repository.javeriana.edu.co/items/52bc8739-07de-4b02-9c0f-931b7118f4bf
